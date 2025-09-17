@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="kk">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Моё портфолио</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Абдукаримов Омар </h1>
+    <p>Байланыс:+7 777 777 77 77</p>
+    <p>Поштам:ETECCOLEGGE2025.@gmail.com</p>
+  </header>
+
+  <section id="about">
+    <h2>Өзім жайлы</h2>
+    <p> I Omarzhan,I studying in study link and it professe .</p>
+  </section>
+
+  <section id="projects">
+    <h2>Проекты </h2>
+    <ul>
+      <li><strong> Проект 1:</strong> Мой Веб страница сайта </li>
+      <li><strong>Жоба 2:</strong> Python программа </li>
+      <li><strong>Жоба 3:</strong> Дизайнерские работы </li>
+    </ul>
+  </section>
+
+  <section id="contact">
+    <h2>Связатся</h2>
+    <form>
+      <label> Имя Фамилия :</label><br>
+      <input type="text" placeholder="Your name"><br><br>
+
+      <label>Email:</label><br>
+      <input type="email" placeholder="email@example.com"><br><br>
+
+      <label>Хабарлама:</label><br>
+      <textarea placeholder="Хабарламаңызды жазыңыз"></textarea><br><br>
+
+      <button type="submit">Жіберу</button>
+    </form>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Всғ права защищены </p>
+  </footer>
+</body>
+</html>
